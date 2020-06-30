@@ -1,0 +1,8 @@
+[2020-06-30 19:13:01] 
+        Текст ошибки: Нет соединения с Bd | Файл: C:\Users\Boss\Desktop\PHP\OSPanel\domains\webshop\vendor\webshop\core\Db.php | Строка: 15
+        
+=================
+[2020-06-30 19:32:55] 
+        Текст ошибки: Too few arguments to function app\controllers\MainController::indexAction(), 0 passed in C:\Users\Boss\Desktop\PHP\OSPanel\domains\webshop\vendor\webshop\core\Router.php on line 36 and exactly 1 expected | Файл: C:\Users\Boss\Desktop\PHP\OSPanel\domains\webshop\app\controllers\MainController.php | Строка: 11
+        
+=================
